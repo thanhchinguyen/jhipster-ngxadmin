@@ -1,0 +1,12 @@
+clone this repo
+run "$ yarn install && yarn webpack:build;"
+run ./mvnw
+launch your browser -> http://localhost:8080
+#Development Instructions:
+
+Generate JHipster project;
+Clone akveo/ngx-admin from github
+Switch to the demo branch
+Follow the commits;
+Run app to see ngx-admin pages
+Develop your project
